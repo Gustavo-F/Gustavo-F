@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <p>✉️ <a href="mailto:fgustavo016@gmail.com">fgustavo016@gmail.com</a></p>
+  <p>✉️ <a href="mailto:gustavo.fesouza@outlook.com">gustavo.fesouza@outlook.com</a></p>
   <p>📍 Canaã dos Carajás, Pará - Brasil</p>
   <p>
     ✔️ Tecnólogo em Análise e Desenvolvimento de Sistemas
